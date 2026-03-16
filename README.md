@@ -1,7 +1,6 @@
-# Olá! Meu nome é Vitor Razia Bubols
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-bubols/)](https://www.linkedin.com/in/vitor-bubols/)
+# Olá! Meu nome é Vitor Razia Bubols 
 [![GitHub followers](https://img.shields.io/github/followers/VBubols?label=Follow&style=social)](https://github.com/VBubols)
+
 
 ## Linguagens e Ferramentas
 
@@ -32,6 +31,5 @@
 
 Fique à vontade para entrar em contato comigo!
 
-Linkedin: <a href="https://www.linkedin.com/in/vitor-bubols/">Vitor Razia Bubols</a>
-
-Email: vitorbubols@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/vitorbubols@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorbubols@gmail.com)](mailto:vitorbubols@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-bubols/)](https://www.linkedin.com/in/vitor-bubols/)
