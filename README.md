@@ -27,3 +27,7 @@
 ## Entre em Contato
 
 Fique à vontade para entrar em contato comigo!
+
+Linkedin: <a href="https://www.linkedin.com/in/vitor-bubols/">Vitor Razia Bubols</a>
+
+Email: vitorbubols@gmail.com
