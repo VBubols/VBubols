@@ -22,6 +22,10 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) -->
 
+## Projetos/repos Destacados
+- 📝⏳SENAI_FASE_3: Repositório destinado as atividades e aulas da 3° fase do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/VBubols/SENAI_FASE3))
+- 🖥️ Node.js CLI — FS, Path & OS: Exercício de NODE modules, utilizando os módulos FileSystem, Path e OS. Organizando todas funções em um só arquivo com menu interativo. ([Repositório aqui](https://github.com/VBubols/NODE_OS_PATH_FS))
+- 🖥️ APIs REST MVC: Exercícios progressivos de construção de APIs com Express utilizando a arquitetura MVC (Model · Controller). Todos os exercícios utilizam arrays em memória como fonte de dados — nenhum banco de dados é necessário. ([Repositório aqui](https://github.com/VBubols/APIs_REST_MVC))
 
 ## Minhas Contribuições
 
