@@ -23,9 +23,8 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) -->
 
 ## Projetos/repos Destacados
-- 📝⏳SENAI_FASE_3: Repositório destinado as atividades e aulas da 3° fase do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/VBubols/SENAI_FASE3))
-- 🖥️ Node.js CLI — FS, Path & OS: Exercício de NODE modules, utilizando os módulos FileSystem, Path e OS. Organizando todas funções em um só arquivo com menu interativo. ([Repositório aqui](https://github.com/VBubols/NODE_OS_PATH_FS))
-- 🖥️ APIs REST MVC: Exercícios progressivos de construção de APIs com Express utilizando a arquitetura MVC (Model · Controller). Todos os exercícios utilizam arrays em memória como fonte de dados — nenhum banco de dados é necessário. ([Repositório aqui](https://github.com/VBubols/APIs_REST_MVC))
+- 📝⏳SENAI_FASE: Repositório destinado as atividades e aulas do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/VBubols/SENAI))
+- 🖥️ ADAPTA: Plataforma web em que a inteligência artificial atua como avaliadora e orientadora pedagógica: o aluno informa um tema, a IA gera uma trilha de aprendizagem completa, aplica uma avaliação diagnóstica, classifica o nível do estudante e monta um plano de estudo personalizado. ([Repositório aqui](https://github.com/VBubols/adapta))
 
 ## Minhas Contribuições
 
