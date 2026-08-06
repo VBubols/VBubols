@@ -26,7 +26,7 @@
 
 ## Projetos/repos Destacados
 - 📝⏳SENAI_FASE: Repositório destinado as atividades e aulas do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/VBubols/SENAI))
-- 🖥️ ADAPTA: Plataforma web em que a inteligência artificial atua como avaliadora e orientadora pedagógica: o aluno informa um tema, a IA gera uma trilha de aprendizagem completa, aplica uma avaliação diagnóstica, classifica o nível do estudante e monta um plano de estudo personalizado. ([Repositório aqui](https://github.com/VBubols/adapta))
+- 🤖🎓 ADAPTA: Plataforma web em que a inteligência artificial atua como avaliadora e orientadora pedagógica: o aluno informa um tema, a IA gera uma trilha de aprendizagem completa, aplica uma avaliação diagnóstica, classifica o nível do estudante e monta um plano de estudo personalizado. ([Repositório aqui](https://github.com/VBubols/adapta))
 
 ## Minhas Contribuições
 
