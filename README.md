@@ -11,6 +11,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![NODE JS](https://img.shields.io/badge/-NodeJS-2C682C?style=flat-square&logo=node&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00599C?style=flat-square&logo=postgresql&logoColor=white)
@@ -25,7 +27,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) -->
 
 ## Projetos/repos Destacados
-- 📝⏳SENAI_FASE: Repositório destinado as atividades e aulas do curso de Desenvolvimento de Sistemas.([Repositório aqui](https://github.com/VBubols/SENAI))
+- 📡🌡️ TELEMETRY: Dashboard full-stack de telemetria IoT em tempo real. Um simulador publica leituras de sensores via MQTT, um consumidor em Django persiste os dados em PostgreSQL, e uma API em DRF alimenta um dashboard em Next.js 15 com React Query que mostra o estado atual e o histórico de cada dispositivo. Tudo orquestrado com Docker Compose. ([Repositório aqui](https://github.com/VBubols/telemetry))
 - 🤖🎓 ADAPTA: Plataforma web em que a inteligência artificial atua como avaliadora e orientadora pedagógica: o aluno informa um tema, a IA gera uma trilha de aprendizagem completa, aplica uma avaliação diagnóstica, classifica o nível do estudante e monta um plano de estudo personalizado. ([Repositório aqui](https://github.com/VBubols/adapta))
 
 ## Minhas Contribuições
