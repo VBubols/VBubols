@@ -27,6 +27,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=VBubols&layout=pie&langs_count=16&theme=dark) -->
 
 ## Projetos/repos Destacados
+- 👨‍🎓📜 ([DIGITAL CV](https://vbubols.github.io/digital_cv/)): Currículo pessoal em HTML e CSS puro, pensado para leitura na web e para impressão em A4 sem ajuste manual. Hospedado no GitHub Pages. ([Repositório aqui](https://github.com/VBubols/digital_cv))
 - 📡🌡️ TELEMETRY: Dashboard full-stack de telemetria IoT em tempo real. Um simulador publica leituras de sensores via MQTT, um consumidor em Django persiste os dados em PostgreSQL, e uma API em DRF alimenta um dashboard em Next.js 15 com React Query que mostra o estado atual e o histórico de cada dispositivo. Tudo orquestrado com Docker Compose. ([Repositório aqui](https://github.com/VBubols/telemetry))
 - 🤖🎓 ADAPTA: Plataforma web em que a inteligência artificial atua como avaliadora e orientadora pedagógica: o aluno informa um tema, a IA gera uma trilha de aprendizagem completa, aplica uma avaliação diagnóstica, classifica o nível do estudante e monta um plano de estudo personalizado. ([Repositório aqui](https://github.com/VBubols/adapta))
 
