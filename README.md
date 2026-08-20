@@ -1,7 +1,10 @@
-<h1 align="left">Olá meu nome é Vitor Razia Bubols!<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR2N3Bkb3h3cHpvbm9rcjNna3lrZ3c4NHE3dmh1cDBxcnVkczMwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkS5A5uRtpZgzeAXuZ/giphy.gif"/></h1> 
-<br>
+<h1>Olá meu nome é Vitor Razia Bubols!</h1> 
 
-<br>
+<img align="right" height="116" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR2N3Bkb3h3cHpvbm9rcjNna3lrZ3c4NHE3dmh1cDBxcnVkczMwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkS5A5uRtpZgzeAXuZ/giphy.gif"/>
+
+Desenvolvedor com foco em back-end e integrações. Trabalho com Python/Django e Node.js,
+consumo de APIs e front-end em React/Next.js. Formado em ADS e cursando Técnico em
+Desenvolvimento de Sistemas no SENAI.
 
 ## Linguagens e Ferramentas
 
@@ -22,6 +25,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<br clear="both"/>
 
 <!-- ## Estatísticas do Meu Perfil
 
