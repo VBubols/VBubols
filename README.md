@@ -1,6 +1,7 @@
-# Olá! Meu nome é Vitor Razia Bubols 
-[![GitHub followers](https://img.shields.io/github/followers/VBubols?label=Follow&style=social)](https://github.com/VBubols)
+<h1 align="left">Olá meu nome é Vitor Razia Bubols!<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR2N3Bkb3h3cHpvbm9rcjNna3lrZ3c4NHE3dmh1cDBxcnVkczMwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkS5A5uRtpZgzeAXuZ/giphy.gif"/></h1> 
+<br>
 
+<br>
 
 ## Linguagens e Ferramentas
 
